@@ -1,3 +1,8 @@
+lib64
+bin
+include
+etc
+share
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
